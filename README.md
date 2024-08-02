@@ -4,7 +4,7 @@ This repository contains the certificates I earned during the Full Stack Develop
 Certificates
 
 Full Stack Development
-[GuviCertification - FullStackDevelopment.png]([GuviCertification - FullStackDevelopment.png](https://github.com/manoj-hubgit/certifications-/blob/main/GuviCertification%20-%20FullStackDevelopment.png))
+([GuviCertification - FullStackDevelopment](https://github.com/manoj-hubgit/certifications-/blob/main/GuviCertification%20-%20FullStackDevelopment.png))
 
 HTML5
 [GuviCertification - HTML5.png](GuviCertification - HTML5.png)
