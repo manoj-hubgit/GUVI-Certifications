@@ -3,7 +3,7 @@ This repository contains the certificates I earned during the Full Stack Develop
 
 Certificates
 Full Stack Development
-[GuviCertification - FullStackDevelopment.png](path/to/GuviCertification - FullStackDevelopment.png)
+[GuviCertification - FullStackDevelopment.png](GuviCertification - FullStackDevelopment.png)
 
 HTML5
 [GuviCertification - HTML5.png](GuviCertification - HTML5.png)
